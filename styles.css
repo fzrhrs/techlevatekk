@@ -1,0 +1,9 @@
+body {
+  font-family: 'Roboto', sans-serif;
+}
+
+p { color: cadetblue; }
+
+#mycities { color: red; }
+
+.city { color: olive; }
